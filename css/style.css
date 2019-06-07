@@ -20,7 +20,6 @@ header{
     /* padding: 0px 148px 0; */
     width: 50vw;
     /* height: 126px; */
-    outline: 1px solid red;
 }
 .logo{
   font-family: 'Grand Hotel', cursive;
@@ -55,9 +54,15 @@ main{
 .container-logo{
   /*display: flex;
   justify-content: space-between;*/
+}
+
+.mock-up {
+  padding-left: 50%;
+  padding-top: 10%;
 
 }
-}
+
+
 /*---------------------------*/
 
 /* Main -------------------------- */
