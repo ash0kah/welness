@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Grand+Hotel&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+/* Home ------------------------ */
+
+
+body{
+  background-image: url("../img/landing-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200vh;
+  overflow-x: hidden;
+}
+header{
+  /* Padding para evitar invadir area de seguridad */
+  padding: 48px 148px;
+
+}
+.welcome-text{
+    /* padding: 0px 148px 0; */
+    width: 50vw;
+    /* height: 126px; */
+    outline: 1px solid red;
+}
+.logo{
+  font-family: 'Grand Hotel', cursive;
+  font-size: 58px;
+  color: white;
+}
+main{
+  margin:95px 148px;
+  width: 100vw;
+  height: 100vh;
+}
+.title-head{
+  font-size: 50px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin-right:25%;
+}
+.texts-paragraph{
+  font-size: 20px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin: 20px 25% 20px 0 ;
+  line-height: 25px;
+}
+.container-logo img{
+  /*width: 40%;*/
+  max-width: 250px;
+}
+.container-logo img.playstore{
+  max-width: 279px;
+}
+.container-logo{
+  /*display: flex;
+  justify-content: space-between;*/
+
+}
+}
+/*---------------------------*/
+
+/* Main -------------------------- */
+
+/*---------------------------*/
